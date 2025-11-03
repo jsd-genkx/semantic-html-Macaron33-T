@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&display=swap");
+
+body {
+  font-family: "Fragment Mono", monospace;
+}
+p {
+  background-color: rgb(65, 214, 162);
+  color: blanchedalmond;
+}

@@ -4,8 +4,7 @@ Web Developer
 
 ## About Me
 
-(photo of John Doe: https://introduction-to-web-application.vercel.app/profile.jpg)
-
+(photo of John Doe: https://introduction-to-web-application.vercel.app/profile.jpg (with 200))
 
 I am a passionate web developer with experience in HTML, CSS, and
 JavaScript.
@@ -32,4 +31,3 @@ Email: john.doe@example.com
 Phone: +1234567890
 
 LinkedIn: johndoe (https://www.linkedin.com/in/johndoe)
-

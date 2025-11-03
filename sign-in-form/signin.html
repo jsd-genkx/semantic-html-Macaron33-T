@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SignIn</title>
+  </head>
+  <body>
+    <section id="Login">
+      <hr />
+      <form>
+        <h1>User Authentication</h1>
+        <label for="Mail">E-mail: </label>
+        <br />
+        <input type="email" name="Email" id="Mail" required />
+        <br />
+        <label for="pass">Password: </label>
+        <br />
+        <input
+          type="password"
+          name="pass"
+          required
+          minlength="8"
+          maxlength="15"
+          pattern="[a-zA-Z0-9]+"
+        />
+        <br />
+        <input type="submit" value="Login" />
+      </form>
+    </section>
+    <div>
+      <a href="/semantic-html-Macaron33-T/sign-in-form/signup.html" id="signU"
+        >Sign Up here</a
+      >
+    </div>
+    <div>
+      <a
+        href="/semantic-html-Macaron33-T/sign-in-form/forget-password.html"
+        id="forgetpw"
+        >Forget Password</a
+      >
+    </div>
+  </body>
+</html>
